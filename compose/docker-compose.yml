@@ -34,4 +34,4 @@ dockergc:
         
         # If you don't like all your log output and cron times being in UTC, you can set the
         # TZ variable to override the default.
-        - TZ=America/New_York
+        - TZ=Europe/London
