@@ -8,8 +8,8 @@ By default, the process will run each night at midnight, but the timing and othe
 ## Installation tl;dr
 
 ```
-$ wget https://raw.githubusercontent.com/clockworksoul/docker-gc-cron/master/compose/docker-gc-exclude
-$ wget https://raw.githubusercontent.com/clockworksoul/docker-gc-cron/master/compose/docker-compose.yml
+$ wget https://raw.githubusercontent.com/shabbirh/docker-gc-cron/master/compose/docker-gc-exclude
+$ wget https://raw.githubusercontent.com/shabbirh/docker-gc-cron/master/compose/docker-compose.yml
 $ docker-compose up -d
 ```
 
